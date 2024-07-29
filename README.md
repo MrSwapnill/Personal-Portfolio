@@ -9,12 +9,13 @@ I am passionate about full stack development and Web designing, and my journey i
 
 
 Portfolio Highlights:
-Explore a diverse range of projects that highlight my expertise in Java Full stack development and Web designing. From web development projects, each entry demonstrates my commitment to quality and innovation.
+Explore a diverse range of projects that highlight my expertise in Java Full stack development and Web designing. 
+
 
 Key Skills:
 
 Web designing
-Database,
+Database
 Java
 C++
 MySql.
